@@ -1,3 +1,4 @@
+![logo](https://github.com/marardharmesh/marardharmesh/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Dharmesh Marar</h1>
 <h3 align="center">A polyglot Full-Stack Developer with over 5 years of experience</h3>
 
