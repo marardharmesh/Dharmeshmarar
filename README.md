@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmesh Marar</h1>
 <h3 align="center">A polyglot Full-Stack Developer with over 5 years of experience</h3>
 
-<img align="right " alt="coding" width="400" src="https://github.com/marardharmesh/Dharmeshmarar/assets/22311844/7e35e00e-52ae-43f2-a82e-8f261abbcf99
-">
+<img align="right " alt="coding" width="400" src="https://thumbs.gfycat.com/ElegantHalfAmericancicada-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marardharmesh&label=Profile%20views&color=0e75b6&style=flat" alt="marardharmesh" /> </p>
 
